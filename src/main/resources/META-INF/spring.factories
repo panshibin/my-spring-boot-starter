@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    com.spi.test.SpiConfiguration,\
+    com.spi.test.RedissonAutoConfiguration

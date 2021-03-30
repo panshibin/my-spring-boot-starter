@@ -1,0 +1,26 @@
+{
+  "properties": [
+    {
+      "name": "my.redis.host",
+      "type": "java.lang.String",
+      "description": "redis服务地址",
+      "defaultValue": "localhost"
+    },
+    {
+      "name": "my.redis.port",
+      "type": "java.lang.Integer",
+      "defaultValue": "6379",
+      "description": "redis端口号"
+    },
+    {
+      "name": "my.redis.timeOut",
+      "type": "java.lang.Integer",
+      "description": "redis链接超时时间"
+    },
+    {
+      "name": "my.redis.password",
+      "type": "java.lang.String",
+      "description": "redis登陆密码"
+    }
+  ]
+}
